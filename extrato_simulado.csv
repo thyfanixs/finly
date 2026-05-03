@@ -1,0 +1,460 @@
+data,descricao,valor
+2024-01-01,Hortifruti Verde,419.61
+2024-01-01,iFood - McDonald's,70.35
+2024-01-01,iFood - Frango Assado,45.73
+2024-01-02,Boate Floresta,42.98
+2024-01-03,iFood - Frango Assado,50.32
+2024-01-04,Posto Shell,144.26
+2024-01-06,Amazon Livros,87.87
+2024-01-07,Magazine Luiza,360.77
+2024-01-07,Uber,178.63
+2024-01-07,iFood - Pizza Hut,45.61
+2024-01-07,Rappi - Açaí Brasil,45.69
+2024-01-08,Mercado Extra,218.86
+2024-01-08,Cinema Show,108.79
+2024-01-08,Rappi - Burger King,20.5
+2024-01-09,Hering Store,63.8
+2024-01-09,Mercado Extra,171.7
+2024-01-10,Cinemark BH,37.27
+2024-01-11,iFood - Sushi Now,26.75
+2024-01-12,Uber,81.91
+2024-01-13,Posto Shell,95.97
+2024-01-13,Posto Shell,122.7
+2024-01-14,iFood - McDonald's,86.58
+2024-01-17,iFood - Frango Assado,65.85
+2024-01-18,Uber,140.83
+2024-01-18,Rappi - Burger King,16.73
+2024-01-18,Posto Shell,175.54
+2024-01-19,Spotify,144.83
+2024-01-19,iFood - Sushi Now,78.76
+2024-01-20,Uber,98.22
+2024-01-21,Rappi - Açaí Brasil,59.84
+2024-01-23,Rappi - Burger King,36.84
+2024-01-23,Cinemark BH,79.53
+2024-01-24,99 Taxi,96.15
+2024-01-24,Supermercado BH,271.38
+2024-01-24,iFood - Frango Assado,50.32
+2024-01-25,iFood - Pizza Hut,61.28
+2024-01-26,Posto Shell,161.77
+2024-01-26,iFood - McDonald's,62.54
+2024-01-27,Amazon Livros,26.87
+2024-01-28,Farmácia Araújo,166.71
+2024-01-28,Netflix,129.67
+2024-02-01,Boate Floresta,108.77
+2024-02-03,Posto Shell,117.12
+2024-02-03,iFood - Pizza Hut,74.63
+2024-02-03,99 Taxi,181.52
+2024-02-04,Clínica Saúde Total,157.34
+2024-02-05,Estacionamento Central,174.81
+2024-02-05,Posto Ipiranga,173.23
+2024-02-05,Uber,139.92
+2024-02-06,Estacionamento Central,122.45
+2024-02-06,Padaria Central,182.58
+2024-02-06,Açougue do João,346.12
+2024-02-06,Hering Store,31.68
+2024-02-08,Rappi - Açaí Brasil,76.14
+2024-02-08,Posto Ipiranga,198.25
+2024-02-08,iFood - McDonald's,19.74
+2024-02-09,Rappi - Açaí Brasil,73.09
+2024-02-11,iFood - McDonald's,61.87
+2024-02-11,iFood - Pizza Hut,75.62
+2024-02-13,iFood - Sushi Now,47.3
+2024-02-13,Rappi - Açaí Brasil,38.22
+2024-02-13,Uber,93.8
+2024-02-14,BHBUS Recarga,174.79
+2024-02-14,BHBUS Recarga,98.47
+2024-02-17,Netflix,296.48
+2024-02-17,99 Taxi,174.25
+2024-02-17,Casas Bahia,303.57
+2024-02-18,Uber,100.83
+2024-02-18,Cinema Show,25.72
+2024-02-19,Rappi - Açaí Brasil,67.23
+2024-02-20,Hortifruti Verde,190.28
+2024-02-20,Steam Store,78.75
+2024-02-21,Rappi - Burger King,73.63
+2024-02-23,iFood - Frango Assado,82.42
+2024-02-24,Magazine Luiza,217.05
+2024-02-24,Mercado Extra,161.93
+2024-02-24,BHBUS Recarga,112.57
+2024-02-24,BHBUS Recarga,159.02
+2024-02-24,Cinemark BH,182.7
+2024-02-25,Clínica Saúde Total,126.08
+2024-02-26,iFood - Sushi Now,61.48
+2024-02-28,Posto Shell,208.18
+2024-03-01,Nike Store,40.97
+2024-03-01,Açougue do João,296.43
+2024-03-03,iFood - McDonald's,47.16
+2024-03-04,Hortifruti Verde,537.35
+2024-03-04,iFood - Sushi Now,56.94
+2024-03-05,Estacionamento Central,156.27
+2024-03-06,Uber,82.4
+2024-03-07,Mercado Extra,299.79
+2024-03-08,Coursera,78.94
+2024-03-08,iFood - Frango Assado,87.2
+2024-03-08,Farmácia Araújo,144.04
+2024-03-08,Udemy,82.41
+2024-03-08,iFood - McDonald's,73.73
+2024-03-10,Hortifruti Verde,148.9
+2024-03-11,Padaria Central,210.8
+2024-03-12,Mercado Extra,234.92
+2024-03-13,Boate Floresta,94.14
+2024-03-14,Posto Ipiranga,138.18
+2024-03-15,Cinemark BH,89.01
+2024-03-15,Bar do Zé,86.11
+2024-03-16,BHBUS Recarga,110.62
+2024-03-17,BHBUS Recarga,103.17
+2024-03-17,Açougue do João,131.49
+2024-03-18,Açougue do João,199.73
+2024-03-18,Estacionamento Central,114.28
+2024-03-21,Netflix,146.02
+2024-03-23,Posto Ipiranga,113.55
+2024-03-24,Rappi - Burger King,25.73
+2024-03-25,BHBUS Recarga,171.4
+2024-03-25,Posto Ipiranga,169.57
+2024-03-27,iFood - Sushi Now,74.37
+2024-04-01,Livraria Cultura,27.18
+2024-04-02,Atacadão,336.92
+2024-04-02,Rappi - Açaí Brasil,56.99
+2024-04-03,Açougue do João,396.19
+2024-04-03,Posto Ipiranga,165.6
+2024-04-04,Posto Shell,167.83
+2024-04-04,iFood - McDonald's,23.99
+2024-04-04,Rappi - Açaí Brasil,66.74
+2024-04-05,99 Taxi,236.6
+2024-04-06,Uber,88.67
+2024-04-07,iFood - McDonald's,26.96
+2024-04-07,Posto Ipiranga,138.94
+2024-04-08,Rappi - Burger King,36.81
+2024-04-08,Atacadão,177.92
+2024-04-08,Supermercado BH,327.79
+2024-04-11,iFood - McDonald's,33.75
+2024-04-13,Rappi - Açaí Brasil,101.47
+2024-04-14,Steam Store,196.01
+2024-04-14,Rappi - Burger King,35.19
+2024-04-14,iFood - Sushi Now,98.81
+2024-04-15,Posto Ipiranga,139.25
+2024-04-15,BHBUS Recarga,92.0
+2024-04-15,Rappi - Açaí Brasil,43.67
+2024-04-16,iFood - Pizza Hut,31.63
+2024-04-16,Spotify,107.36
+2024-04-18,99 Taxi,108.19
+2024-04-18,iFood - Pizza Hut,77.86
+2024-04-19,Rappi - Burger King,127.48
+2024-04-21,Rappi - Açaí Brasil,44.93
+2024-04-21,BHBUS Recarga,172.29
+2024-04-24,iFood - Frango Assado,70.04
+2024-04-26,Tok&Stok,328.29
+2024-04-26,Rappi - Burger King,149.5
+2024-04-27,Posto Shell,55.7
+2024-04-28,Steam Store,80.75
+2024-04-28,Posto Shell,152.54
+2024-05-02,Rappi - Açaí Brasil,92.32
+2024-05-02,iFood - Frango Assado,31.17
+2024-05-03,Rappi - Açaí Brasil,113.86
+2024-05-03,iFood - Frango Assado,133.68
+2024-05-06,iFood - McDonald's,70.74
+2024-05-07,Atacadão,387.87
+2024-05-07,Supermercado BH,395.17
+2024-05-09,99 Taxi,231.58
+2024-05-09,Posto Ipiranga,170.39
+2024-05-10,Steam Store,175.21
+2024-05-11,Cinema Show,224.18
+2024-05-11,Posto Ipiranga,120.52
+2024-05-11,iFood - McDonald's,116.06
+2024-05-13,iFood - McDonald's,92.94
+2024-05-14,Hortifruti Verde,197.82
+2024-05-14,Estacionamento Central,113.58
+2024-05-16,iFood - Frango Assado,68.13
+2024-05-16,Mercado Extra,139.2
+2024-05-17,iFood - McDonald's,140.71
+2024-05-17,Uber,173.74
+2024-05-19,iFood - Pizza Hut,50.09
+2024-05-19,iFood - Frango Assado,39.93
+2024-05-19,BHBUS Recarga,116.92
+2024-05-20,Coursera,45.71
+2024-05-20,Posto Shell,109.75
+2024-05-22,Boate Floresta,70.74
+2024-05-22,Hortifruti Verde,200.79
+2024-05-22,Estacionamento Central,199.01
+2024-05-24,iFood - Frango Assado,73.28
+2024-05-24,Açougue do João,195.03
+2024-05-28,iFood - Pizza Hut,71.44
+2024-05-28,iFood - Pizza Hut,38.59
+2024-05-28,iFood - Frango Assado,35.51
+2024-06-02,Posto Shell,140.6
+2024-06-02,Magazine Luiza,347.71
+2024-06-03,Mercado Extra,445.68
+2024-06-03,Estacionamento Central,84.36
+2024-06-04,Rappi - Açaí Brasil,62.71
+2024-06-04,iFood - Pizza Hut,30.09
+2024-06-05,Eletro Shopping,393.1
+2024-06-05,Atacadão,333.18
+2024-06-07,Estacionamento Central,159.03
+2024-06-09,iFood - McDonald's,58.46
+2024-06-09,Posto Shell,162.15
+2024-06-10,Rappi - Açaí Brasil,59.28
+2024-06-10,BHBUS Recarga,163.99
+2024-06-10,iFood - Pizza Hut,64.46
+2024-06-11,Posto Ipiranga,182.72
+2024-06-11,Posto Ipiranga,96.57
+2024-06-14,Bar do Zé,119.74
+2024-06-14,Uber,107.23
+2024-06-15,iFood - Frango Assado,96.38
+2024-06-17,iFood - McDonald's,46.07
+2024-06-17,Atacadão,208.95
+2024-06-17,99 Taxi,212.32
+2024-06-18,iFood - Pizza Hut,37.32
+2024-06-18,Boate Floresta,99.98
+2024-06-18,Mercado Extra,115.75
+2024-06-20,Rappi - Açaí Brasil,24.7
+2024-06-21,Uber,182.78
+2024-06-22,Estacionamento Central,134.31
+2024-06-22,iFood - Frango Assado,129.83
+2024-06-23,iFood - Sushi Now,38.06
+2024-06-24,Steam Store,214.85
+2024-06-28,Uber,185.16
+2024-07-01,Farmácia Araújo,146.6
+2024-07-02,Atacadão,267.26
+2024-07-04,Nike Store,233.61
+2024-07-05,iFood - Pizza Hut,40.94
+2024-07-06,Rappi - Açaí Brasil,60.2
+2024-07-08,Posto Shell,114.79
+2024-07-08,Posto Ipiranga,50.69
+2024-07-09,iFood - Pizza Hut,55.91
+2024-07-09,Renner,638.41
+2024-07-09,Drogaria Pacheco,436.85
+2024-07-11,Rappi - Burger King,40.69
+2024-07-12,Supermercado BH,165.79
+2024-07-12,Mercado Extra,150.88
+2024-07-12,Uber,121.59
+2024-07-12,Açougue do João,67.96
+2024-07-12,Boate Floresta,68.29
+2024-07-12,Amazon Livros,116.71
+2024-07-13,Posto Shell,205.76
+2024-07-13,Uber,140.2
+2024-07-14,iFood - McDonald's,56.29
+2024-07-14,Mercado Extra,225.54
+2024-07-17,Steam Store,63.38
+2024-07-18,Mercado Extra,161.08
+2024-07-20,Eletro Shopping,568.32
+2024-07-20,Rappi - Açaí Brasil,123.71
+2024-07-22,Posto Ipiranga,150.03
+2024-07-22,Supermercado BH,318.88
+2024-07-22,Mercado Extra,184.91
+2024-07-25,Netflix,37.99
+2024-07-26,Rappi - Açaí Brasil,123.47
+2024-07-26,Rappi - Açaí Brasil,75.54
+2024-07-26,iFood - Pizza Hut,106.79
+2024-07-26,iFood - Pizza Hut,138.2
+2024-07-27,Posto Ipiranga,154.1
+2024-07-27,99 Taxi,127.46
+2024-07-28,99 Taxi,145.36
+2024-07-28,Rappi - Açaí Brasil,40.39
+2024-07-28,Cinemark BH,242.66
+2024-07-28,iFood - Pizza Hut,45.56
+2024-08-02,Hortifruti Verde,301.89
+2024-08-03,Rappi - Açaí Brasil,17.69
+2024-08-03,Drogaria Pacheco,133.35
+2024-08-05,Posto Ipiranga,81.34
+2024-08-07,99 Taxi,135.96
+2024-08-07,Atacadão,177.68
+2024-08-10,Bar do Zé,197.64
+2024-08-10,Uber,122.79
+2024-08-10,99 Taxi,127.96
+2024-08-11,99 Taxi,183.44
+2024-08-11,iFood - Frango Assado,34.51
+2024-08-11,Rappi - Açaí Brasil,49.95
+2024-08-11,Rappi - Burger King,57.61
+2024-08-12,Rappi - Burger King,53.81
+2024-08-13,Açougue do João,241.95
+2024-08-13,Estacionamento Central,156.53
+2024-08-14,Supermercado BH,256.01
+2024-08-14,Estacionamento Central,216.48
+2024-08-15,99 Taxi,91.63
+2024-08-17,99 Taxi,41.92
+2024-08-17,iFood - Sushi Now,47.51
+2024-08-18,Posto Shell,95.99
+2024-08-20,BHBUS Recarga,180.03
+2024-08-20,Estacionamento Central,190.43
+2024-08-22,Rappi - Burger King,46.2
+2024-08-22,Clínica Saúde Total,110.56
+2024-08-22,Boate Floresta,58.21
+2024-08-22,Cinemark BH,100.59
+2024-08-22,Posto Ipiranga,266.92
+2024-08-22,Rappi - Açaí Brasil,63.88
+2024-08-22,iFood - Pizza Hut,36.46
+2024-08-23,iFood - Sushi Now,150.89
+2024-08-24,Rappi - Açaí Brasil,126.89
+2024-08-24,iFood - Sushi Now,157.77
+2024-08-24,Posto Ipiranga,80.74
+2024-08-26,BHBUS Recarga,161.9
+2024-08-26,Estacionamento Central,148.11
+2024-08-26,iFood - Frango Assado,40.85
+2024-08-28,iFood - McDonald's,30.04
+2024-09-02,iFood - Frango Assado,43.17
+2024-09-02,Mercado Extra,289.28
+2024-09-02,Casas Bahia,227.94
+2024-09-03,Spotify,101.99
+2024-09-05,Rappi - Açaí Brasil,38.42
+2024-09-05,Spotify,79.57
+2024-09-08,iFood - McDonald's,65.94
+2024-09-08,iFood - Pizza Hut,54.58
+2024-09-08,Uber,151.67
+2024-09-08,Uber,79.76
+2024-09-09,BHBUS Recarga,113.45
+2024-09-11,Bar do Zé,101.84
+2024-09-13,Boate Floresta,48.6
+2024-09-13,iFood - Pizza Hut,121.67
+2024-09-13,Rappi - Burger King,128.26
+2024-09-14,Amazon Livros,52.91
+2024-09-15,Tok&Stok,396.27
+2024-09-15,iFood - Pizza Hut,50.96
+2024-09-15,Posto Shell,71.43
+2024-09-15,Posto Ipiranga,107.59
+2024-09-15,Uber,114.79
+2024-09-15,Padaria Central,138.43
+2024-09-16,Estacionamento Central,264.8
+2024-09-16,Açougue do João,230.98
+2024-09-17,Rappi - Burger King,80.55
+2024-09-17,99 Taxi,157.09
+2024-09-19,iFood - Pizza Hut,72.99
+2024-09-20,Uber,198.92
+2024-09-20,Estacionamento Central,223.88
+2024-09-22,iFood - Frango Assado,76.98
+2024-09-23,Rappi - Açaí Brasil,61.15
+2024-09-23,Drogaria Pacheco,156.06
+2024-09-23,iFood - McDonald's,43.8
+2024-09-23,Uber,216.22
+2024-09-24,99 Taxi,172.86
+2024-09-25,Rappi - Burger King,67.21
+2024-09-25,Posto Ipiranga,161.04
+2024-09-25,99 Taxi,198.3
+2024-09-25,iFood - McDonald's,69.95
+2024-09-26,Rappi - Burger King,50.65
+2024-09-26,Rappi - Açaí Brasil,57.35
+2024-09-27,BHBUS Recarga,191.46
+2024-09-27,Estacionamento Central,186.95
+2024-09-28,Supermercado BH,201.42
+2024-10-01,Atacadão,261.33
+2024-10-01,Rappi - Burger King,40.63
+2024-10-02,Udemy,80.98
+2024-10-03,Estacionamento Central,140.99
+2024-10-05,iFood - Frango Assado,93.24
+2024-10-06,Posto Shell,140.77
+2024-10-08,Alura,99.92
+2024-10-08,iFood - Sushi Now,26.04
+2024-10-08,Rappi - Burger King,59.64
+2024-10-08,Renner,195.64
+2024-10-09,99 Taxi,235.7
+2024-10-10,Padaria Central,194.62
+2024-10-11,Rappi - Açaí Brasil,91.32
+2024-10-11,Posto Ipiranga,150.34
+2024-10-11,99 Taxi,191.89
+2024-10-13,Padaria Central,146.18
+2024-10-13,iFood - Frango Assado,34.95
+2024-10-13,Açougue do João,130.47
+2024-10-14,Rappi - Burger King,26.85
+2024-10-14,Netflix,87.84
+2024-10-14,Posto Ipiranga,172.78
+2024-10-15,Uber,176.89
+2024-10-16,Cinemark BH,83.42
+2024-10-18,iFood - Frango Assado,82.04
+2024-10-18,iFood - McDonald's,98.32
+2024-10-19,Rappi - Açaí Brasil,98.33
+2024-10-22,Rappi - Burger King,61.22
+2024-10-23,Supermercado BH,160.72
+2024-10-24,iFood - Pizza Hut,84.51
+2024-10-24,Rappi - Açaí Brasil,44.86
+2024-10-25,Cinema Show,65.96
+2024-10-27,Rappi - Burger King,72.15
+2024-10-27,Cinemark BH,176.97
+2024-10-28,Padaria Central,194.7
+2024-10-28,Açougue do João,204.78
+2024-10-28,99 Taxi,112.98
+2024-11-04,99 Taxi,124.83
+2024-11-05,Padaria Central,475.11
+2024-11-05,Mercado Extra,534.14
+2024-11-06,Açougue do João,622.78
+2024-11-07,iFood - McDonald's,61.84
+2024-11-08,Posto Shell,205.42
+2024-11-09,Clínica Saúde Total,191.16
+2024-11-09,Atacadão,191.0
+2024-11-10,iFood - McDonald's,43.01
+2024-11-10,iFood - Frango Assado,44.48
+2024-11-11,Posto Shell,150.04
+2024-11-12,Estacionamento Central,156.27
+2024-11-12,Posto Shell,66.92
+2024-11-12,BHBUS Recarga,217.33
+2024-11-13,Rappi - Açaí Brasil,58.01
+2024-11-14,Estacionamento Central,131.6
+2024-11-14,Spotify,64.25
+2024-11-15,Hortifruti Verde,232.34
+2024-11-15,Casas Bahia,356.74
+2024-11-15,Academia Smart Fit,138.61
+2024-11-17,Estacionamento Central,174.15
+2024-11-19,iFood - McDonald's,12.52
+2024-11-19,Mercado Extra,133.96
+2024-11-20,Posto Shell,181.58
+2024-11-20,Hortifruti Verde,131.5
+2024-11-21,Netflix,42.63
+2024-11-22,Supermercado BH,309.19
+2024-11-22,Rappi - Burger King,71.67
+2024-11-23,Uber,96.92
+2024-11-23,Estacionamento Central,195.05
+2024-11-24,Bar do Zé,223.96
+2024-11-25,iFood - Pizza Hut,38.21
+2024-11-26,Posto Shell,251.24
+2024-11-26,BHBUS Recarga,87.35
+2024-11-27,99 Taxi,158.44
+2024-11-27,Laboratório Hermes,159.62
+2024-11-27,99 Taxi,73.09
+2024-11-28,99 Taxi,220.37
+2024-11-28,Estacionamento Central,109.28
+2024-12-01,Posto Shell,49.65
+2024-12-03,iFood - Pizza Hut,50.02
+2024-12-04,Estacionamento Central,48.49
+2024-12-04,Cinema Show,181.49
+2024-12-04,Estacionamento Central,88.17
+2024-12-06,Netflix,98.31
+2024-12-06,Posto Ipiranga,175.06
+2024-12-06,Padaria Central,270.18
+2024-12-07,Atacadão,546.14
+2024-12-07,Uber,116.44
+2024-12-07,Estacionamento Central,82.4
+2024-12-07,Netflix,160.16
+2024-12-08,Netflix,343.7
+2024-12-08,Uber,109.22
+2024-12-09,iFood - Frango Assado,78.59
+2024-12-09,Posto Ipiranga,154.3
+2024-12-09,Uber,175.97
+2024-12-09,Renner,285.55
+2024-12-10,Posto Ipiranga,94.47
+2024-12-10,Casas Bahia,94.71
+2024-12-11,Supermercado BH,256.66
+2024-12-11,Uber,67.42
+2024-12-12,99 Taxi,234.12
+2024-12-12,99 Taxi,240.69
+2024-12-13,Estacionamento Central,49.96
+2024-12-16,Rappi - Burger King,76.17
+2024-12-16,Uber,129.28
+2024-12-16,iFood - Frango Assado,67.91
+2024-12-16,Atacadão,199.94
+2024-12-17,iFood - Pizza Hut,90.11
+2024-12-18,BHBUS Recarga,159.85
+2024-12-18,Estacionamento Central,190.82
+2024-12-18,iFood - McDonald's,96.21
+2024-12-18,C&A,128.64
+2024-12-19,Açougue do João,112.52
+2024-12-20,Netflix,124.49
+2024-12-21,Rappi - Açaí Brasil,123.7
+2024-12-21,Tok&Stok,166.95
+2024-12-22,BHBUS Recarga,148.7
+2024-12-22,Padaria Central,87.95
+2024-12-23,Rappi - Burger King,35.7
+2024-12-23,iFood - Sushi Now,56.35
+2024-12-23,99 Taxi,153.11
+2024-12-24,BHBUS Recarga,84.23
+2024-12-24,Rappi - Burger King,74.43
+2024-12-25,Bar do Zé,68.68
+2024-12-25,iFood - Pizza Hut,82.37
+2024-12-26,Atacadão,186.94
